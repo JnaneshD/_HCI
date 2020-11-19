@@ -3,11 +3,12 @@
 HCI Project - Restaurant Food Ordering website - Part of Human Computer Interaction 2020
 
 Team : 
-Sachin : PES1201701725
-Advaith : PES1201700207
-Mayur : PES1201700714
-Jnanesh : PES1201701822
-
+<ul>
+<li>Sachin : PES1201701725</li>
+<li>Advaith : PES1201700207</li>
+<li>Mayur : PES1201700714</li>
+<li>Jnanesh : PES1201701822</li>
+</ul>
 We have created a website for a restaurant with reservation and contactless food ordering design. In order to improve the restaurant business in covid pandemic a website which has the functionality of both Reservation and Contactless ordering in the restaurant. 
 
 Process : <br>
