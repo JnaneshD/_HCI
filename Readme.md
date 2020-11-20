@@ -18,6 +18,6 @@ Process : <br>
 
 3 . <a href="https://docs.google.com/presentation/d/1Wgl7-4013FSjkdMOs7wUFzfS_WdAiHs5yJ5LmlbtqJI/edit?usp=sharing">Low Fi Prototype</a>
 
-4 . <a href="https://jfoodorder.herokuapp.com/menu.html">High Fi Prototype</a>
+4 . <a href="https://jfoodorder.herokuapp.com/">High Fi Prototype</a>
 
-!(https://github.com/JnaneshD/_HCI/blob/master/hci.png?raw=true)
+![alt](https://github.com/JnaneshD/_HCI/blob/master/hci.png?raw=true)
